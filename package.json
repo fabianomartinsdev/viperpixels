@@ -1,7 +1,7 @@
 {
   "name": "viperpixels",
   "version": "0.1.0",
-  "homepage": "https:fabianomartinsdev.github.io/viperpixels",
+  "homepage": "https://github.com/fabianomartinsdev/viperpixels.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
