@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/viperpixels/static/css/main.073c9b0a.css",
+    "main.js": "/viperpixels/static/js/main.65a4eeee.js",
+    "index.html": "/viperpixels/index.html",
+    "main.073c9b0a.css.map": "/viperpixels/static/css/main.073c9b0a.css.map",
+    "main.65a4eeee.js.map": "/viperpixels/static/js/main.65a4eeee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.65a4eeee.js"
+  ]
+}
