@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/viperpixels/static/css/main.073c9b0a.css",
-    "main.js": "/viperpixels/static/js/main.65a4eeee.js",
+    "main.css": "/viperpixels/static/css/main.8e5151d8.css",
+    "main.js": "/viperpixels/static/js/main.b4286201.js",
     "index.html": "/viperpixels/index.html",
-    "main.073c9b0a.css.map": "/viperpixels/static/css/main.073c9b0a.css.map",
-    "main.65a4eeee.js.map": "/viperpixels/static/js/main.65a4eeee.js.map"
+    "main.8e5151d8.css.map": "/viperpixels/static/css/main.8e5151d8.css.map",
+    "main.b4286201.js.map": "/viperpixels/static/js/main.b4286201.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.65a4eeee.js"
+    "static/css/main.8e5151d8.css",
+    "static/js/main.b4286201.js"
   ]
 }
