@@ -5,9 +5,6 @@ function App() {
   return (
     <>
       <Header />
-      <div>
-        <p>This is my pixel viper site!</p>
-      </div>
     </>
   );
 }
